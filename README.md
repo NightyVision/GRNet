@@ -29,6 +29,7 @@ data
     │   ├── img_dir
     │	│	├── train
     │	│	├── val
+    │	│	├── test
     │   └── ann_dir
     ├── Fold1
     ├── Fold2
